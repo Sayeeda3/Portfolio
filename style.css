@@ -1,0 +1,85 @@
+#font1
+{
+    color:orange;
+}
+.div1
+{
+    background-color: black;
+}
+#font2{
+    color: white;
+}
+.link1
+{
+    text-decoration: none;
+    color: orange;
+}
+#image1
+{
+    float: right;
+    height: 200px;
+    width: 200px;
+    border: 5px double white;
+    border-radius: 100px;
+    margin-right: 100px;
+}
+.heading1
+{
+    background-color:black;
+    color: orange;
+    padding: 5px 20px;
+}
+.card
+{
+    height: 84%;
+    background-color: black;
+    color: orange;
+    transition: height 0.6s;
+    overflow: hidden;
+    border-radius: 20px;
+}
+.card:hover
+{
+    height: 100%;
+}
+#image2
+{
+    border: 10px double orange;
+    border-radius: 20px;
+}
+#image2:hover
+{
+    opacity: 0.5;
+}
+td,th{
+    border: 5px solid white;
+    color: orange;
+    transition: 1s;
+}
+.div3
+{
+    background-color: black;
+}
+td:hover
+{
+    background-color: orange;
+    color: white;
+}
+#card1
+{
+    height: 350px;
+    width: 330px;
+}
+#card1:hover{
+    height: 370px;
+}
+#image3
+{
+    height: 250px;
+    width: 100%;
+}
+.div6
+{
+    background-color: black;
+    color: orange;
+}
